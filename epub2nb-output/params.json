@@ -1,0 +1,457 @@
+{
+  "params": {
+    "metadata": {
+      "title": "Naivní detektivka z knihovny",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Jana Chroustová",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-03-23T00:00:00.000Z"
+    },
+    "elements": {
+      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
+      "subtitle": "",
+      "h2": "MLP.uroven3.nadpis.*\nMLP.UROVEN3.*\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasne\nmlpuroven3.*",
+      "h3": "MLP.uroven4.nadpis\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasnebezodstrankovani",
+      "h4": "MLP.uroven5.nadpis",
+      "hr": "MLP.hvezdicky\ne.bookhvezdickystred",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
+      "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
+      "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
+      "centered": ".*uprostred.*",
+      "figure": "MLP.obrazky.*\nmlpobrazky",
+      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
+      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
+      "verse": "MLP.verse.*",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "naivni_detektivka_z_knihovny_001.md",
+            "xhtml": "naivni_detektivka_z_knihovny_001.xhtml",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "naivni_detektivka_z_knihovny_002.md",
+            "xhtml": "naivni_detektivka_z_knihovny_002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "naivni_detektivka_z_knihovny_003.md",
+            "xhtml": "naivni_detektivka_z_knihovny_003.xhtml",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "naivni_detektivka_z_knihovny_004.md",
+            "xhtml": "naivni_detektivka_z_knihovny_004.xhtml",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "naivni_detektivka_z_knihovny_005.md",
+            "xhtml": "naivni_detektivka_z_knihovny_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "naivni_detektivka_z_knihovny_006.md",
+            "xhtml": "naivni_detektivka_z_knihovny_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "naivni_detektivka_z_knihovny_007.md",
+            "xhtml": "naivni_detektivka_z_knihovny_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "naivni_detektivka_z_knihovny_008.md",
+            "xhtml": "naivni_detektivka_z_knihovny_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "naivni_detektivka_z_knihovny_009.md",
+            "xhtml": "naivni_detektivka_z_knihovny_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "naivni_detektivka_z_knihovny_010.md",
+            "xhtml": "naivni_detektivka_z_knihovny_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "naivni_detektivka_z_knihovny_011.md",
+            "xhtml": "naivni_detektivka_z_knihovny_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "naivni_detektivka_z_knihovny_012.md",
+            "xhtml": "naivni_detektivka_z_knihovny_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "naivni_detektivka_z_knihovny_013.md",
+            "xhtml": "naivni_detektivka_z_knihovny_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "naivni_detektivka_z_knihovny_014.md",
+            "xhtml": "naivni_detektivka_z_knihovny_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "naivni_detektivka_z_knihovny_015.md",
+            "xhtml": "naivni_detektivka_z_knihovny_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "naivni_detektivka_z_knihovny_016.md",
+            "xhtml": "naivni_detektivka_z_knihovny_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "naivni_detektivka_z_knihovny_017.md",
+            "xhtml": "naivni_detektivka_z_knihovny_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "naivni_detektivka_z_knihovny_018.md",
+            "xhtml": "naivni_detektivka_z_knihovny_018.xhtml",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "naivni_detektivka_z_knihovny_019.md",
+            "xhtml": "naivni_detektivka_z_knihovny_019.xhtml",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "naivni_detektivka_z_knihovny_020.md",
+            "xhtml": "naivni_detektivka_z_knihovny_020.xhtml",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Naivní detektivka z knihovny",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Jana Chroustová",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-03-23T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "naivni_detektivka_z_knihovny_001.md",
+        "xhtml": "naivni_detektivka_z_knihovny_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "naivni_detektivka_z_knihovny_002.md",
+        "xhtml": "naivni_detektivka_z_knihovny_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "naivni_detektivka_z_knihovny_003.md",
+        "xhtml": "naivni_detektivka_z_knihovny_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "naivni_detektivka_z_knihovny_004.md",
+        "xhtml": "naivni_detektivka_z_knihovny_004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "naivni_detektivka_z_knihovny_005.md",
+        "xhtml": "naivni_detektivka_z_knihovny_005.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "naivni_detektivka_z_knihovny_006.md",
+        "xhtml": "naivni_detektivka_z_knihovny_006.xhtml"
+      },
+      {
+        "titleSuggest": "Den první",
+        "subtitleSuggest": "",
+        "filename": "naivni_detektivka_z_knihovny_007.md",
+        "xhtml": "naivni_detektivka_z_knihovny_007.xhtml"
+      },
+      {
+        "titleSuggest": "Den druhý",
+        "subtitleSuggest": "",
+        "filename": "naivni_detektivka_z_knihovny_008.md",
+        "xhtml": "naivni_detektivka_z_knihovny_008.xhtml"
+      },
+      {
+        "titleSuggest": "Den třetí",
+        "subtitleSuggest": "",
+        "filename": "naivni_detektivka_z_knihovny_009.md",
+        "xhtml": "naivni_detektivka_z_knihovny_009.xhtml"
+      },
+      {
+        "titleSuggest": "Den čtvrtý",
+        "subtitleSuggest": "",
+        "filename": "naivni_detektivka_z_knihovny_010.md",
+        "xhtml": "naivni_detektivka_z_knihovny_010.xhtml"
+      },
+      {
+        "titleSuggest": "Den pátý",
+        "subtitleSuggest": "",
+        "filename": "naivni_detektivka_z_knihovny_011.md",
+        "xhtml": "naivni_detektivka_z_knihovny_011.xhtml"
+      },
+      {
+        "titleSuggest": "Den šestý",
+        "subtitleSuggest": "",
+        "filename": "naivni_detektivka_z_knihovny_012.md",
+        "xhtml": "naivni_detektivka_z_knihovny_012.xhtml"
+      },
+      {
+        "titleSuggest": "Den sedmý",
+        "subtitleSuggest": "",
+        "filename": "naivni_detektivka_z_knihovny_013.md",
+        "xhtml": "naivni_detektivka_z_knihovny_013.xhtml"
+      },
+      {
+        "titleSuggest": "Den osmý",
+        "subtitleSuggest": "",
+        "filename": "naivni_detektivka_z_knihovny_014.md",
+        "xhtml": "naivni_detektivka_z_knihovny_014.xhtml"
+      },
+      {
+        "titleSuggest": "Den devátý",
+        "subtitleSuggest": "",
+        "filename": "naivni_detektivka_z_knihovny_015.md",
+        "xhtml": "naivni_detektivka_z_knihovny_015.xhtml"
+      },
+      {
+        "titleSuggest": "Den desátý",
+        "subtitleSuggest": "",
+        "filename": "naivni_detektivka_z_knihovny_016.md",
+        "xhtml": "naivni_detektivka_z_knihovny_016.xhtml"
+      },
+      {
+        "titleSuggest": "Den jedenáctý",
+        "subtitleSuggest": "",
+        "filename": "naivni_detektivka_z_knihovny_017.md",
+        "xhtml": "naivni_detektivka_z_knihovny_017.xhtml"
+      },
+      {
+        "titleSuggest": "Den dvanáctý",
+        "subtitleSuggest": "",
+        "filename": "naivni_detektivka_z_knihovny_018.md",
+        "xhtml": "naivni_detektivka_z_knihovny_018.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "naivni_detektivka_z_knihovny_019.md",
+        "xhtml": "naivni_detektivka_z_knihovny_019.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "naivni_detektivka_z_knihovny_020.md",
+        "xhtml": "naivni_detektivka_z_knihovny_020.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/idGeneratedStyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_naivni_detektivka_z_knihovny.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "Hyperlink",
+      "MLP_citacni_str_rozdeleni",
+      "MLP_dopis_bez1radku",
+      "MLP_dopis_bez1radku_-I-",
+      "MLP_dopis_podpis_-I-",
+      "MLP_hvezdicky",
+      "MLP_licence_hypertext",
+      "MLP_licence_obrazek",
+      "MLP_licence_paragraf",
+      "MLP_licence_text",
+      "MLP_obrazky",
+      "MLP_text",
+      "MLP_text_-0-12-",
+      "MLP_text_-12-0-",
+      "MLP_text_bez1radku",
+      "MLP_text_bez1radku_-0-12-",
+      "MLP_text_bez1radku_-12-0-",
+      "MLP_text_uprostred",
+      "MLP_tiraz_autor_a_nazev",
+      "MLP_titulka_autor",
+      "MLP_titulka_nazev",
+      "MLP_uroven2_kapitola",
+      "MLP_venovani",
+      "MLP_znak_kurziva_11b",
+      "ParaOverride-1",
+      "ParaOverride-2",
+      "ParaOverride-3",
+      "Z-kladn--textový-r-meček",
+      "_idGenCharOverride-1",
+      "_idGenObjectAttribute-1",
+      "_idGenObjectAttribute-2",
+      "_idGenObjectLayout-1",
+      "_idGenObjectStyleOverride-1"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "chroustova-naivni-detektivka-z-knihovny"
+    },
+    "generatedAt": 1663937587886
+  }
+}

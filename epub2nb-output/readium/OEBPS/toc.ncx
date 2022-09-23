@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Naivní detektivka z knihovny</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Den první</text>
+      </navLabel>
+      <content src="Text/naivni_detektivka_z_knihovny_007.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Den druhý</text>
+      </navLabel>
+      <content src="Text/naivni_detektivka_z_knihovny_008.xhtml#_idParaDest-2"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Den třetí</text>
+      </navLabel>
+      <content src="Text/naivni_detektivka_z_knihovny_009.xhtml#_idParaDest-3"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Den čtvrtý</text>
+      </navLabel>
+      <content src="Text/naivni_detektivka_z_knihovny_010.xhtml#_idParaDest-4"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Den pátý</text>
+      </navLabel>
+      <content src="Text/naivni_detektivka_z_knihovny_011.xhtml#_idParaDest-5"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Den šestý</text>
+      </navLabel>
+      <content src="Text/naivni_detektivka_z_knihovny_012.xhtml#_idParaDest-6"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Den sedmý</text>
+      </navLabel>
+      <content src="Text/naivni_detektivka_z_knihovny_013.xhtml#_idParaDest-7"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Den osmý</text>
+      </navLabel>
+      <content src="Text/naivni_detektivka_z_knihovny_014.xhtml#_idParaDest-8"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Den devátý</text>
+      </navLabel>
+      <content src="Text/naivni_detektivka_z_knihovny_015.xhtml#_idParaDest-9"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Den desátý</text>
+      </navLabel>
+      <content src="Text/naivni_detektivka_z_knihovny_016.xhtml#_idParaDest-10"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Den jedenáctý</text>
+      </navLabel>
+      <content src="Text/naivni_detektivka_z_knihovny_017.xhtml#_idParaDest-11"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Den dvanáctý</text>
+      </navLabel>
+      <content src="Text/naivni_detektivka_z_knihovny_018.xhtml#_idParaDest-12"/>
+    </navPoint>
+  </navMap>
+</ncx>
