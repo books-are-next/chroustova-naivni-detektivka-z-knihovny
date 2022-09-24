@@ -23,11 +23,11 @@
       "br": "",
       "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
       "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
-      "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
+      "blockquote": "MLP_dopis_bez1radku_-I-\nMLP_dopis_podpis_-I-",
       "figure": "MLP.obrazky.*\nmlpobrazky",
       "centered": ".*uprostred.*",
       "verse": "MLP.verse.*",
-      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_bez1radku_-I-\nMLP_dopis_podpis_-I-\nMLP_venovani",
       "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
       "remove": "",
       "ignore": ""
@@ -96,8 +96,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Detektivka se odehrává..."
+            "title": "Detektivka se odehrává...",
+            "children": []
           },
           {
             "filename": "naivni_detektivka_z_knihovny_006.md",
@@ -109,8 +109,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Poděkování"
+            "title": "Poděkování",
+            "children": []
           },
           {
             "filename": "naivni_detektivka_z_knihovny_007.md",
@@ -122,8 +122,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Den první"
+            "title": "Den první",
+            "children": []
           },
           {
             "filename": "naivni_detektivka_z_knihovny_008.md",
@@ -135,8 +135,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Den druhý"
+            "title": "Den druhý",
+            "children": []
           },
           {
             "filename": "naivni_detektivka_z_knihovny_009.md",
@@ -148,8 +148,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Den třetí"
+            "title": "Den třetí",
+            "children": []
           },
           {
             "filename": "naivni_detektivka_z_knihovny_010.md",
@@ -161,8 +161,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Den čtvrtý"
+            "title": "Den čtvrtý",
+            "children": []
           },
           {
             "filename": "naivni_detektivka_z_knihovny_011.md",
@@ -174,8 +174,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Den pátý"
+            "title": "Den pátý",
+            "children": []
           },
           {
             "filename": "naivni_detektivka_z_knihovny_012.md",
@@ -187,8 +187,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Den šestý"
+            "title": "Den šestý",
+            "children": []
           },
           {
             "filename": "naivni_detektivka_z_knihovny_013.md",
@@ -200,8 +200,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Den sedmý"
+            "title": "Den sedmý",
+            "children": []
           },
           {
             "filename": "naivni_detektivka_z_knihovny_014.md",
@@ -213,8 +213,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Den osmý"
+            "title": "Den osmý",
+            "children": []
           },
           {
             "filename": "naivni_detektivka_z_knihovny_015.md",
@@ -226,8 +226,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Den devátý"
+            "title": "Den devátý",
+            "children": []
           },
           {
             "filename": "naivni_detektivka_z_knihovny_016.md",
@@ -239,8 +239,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Den desátý"
+            "title": "Den desátý",
+            "children": []
           },
           {
             "filename": "naivni_detektivka_z_knihovny_017.md",
@@ -252,8 +252,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Den jedenáctý"
+            "title": "Den jedenáctý",
+            "children": []
           },
           {
             "filename": "naivni_detektivka_z_knihovny_018.md",
@@ -265,8 +265,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Den dvanáctý"
+            "title": "Den dvanáctý",
+            "children": []
           },
           {
             "filename": "naivni_detektivka_z_knihovny_019.md",
@@ -491,6 +491,6 @@
       "user": "books-are-next",
       "repo": "chroustova-naivni-detektivka-z-knihovny"
     },
-    "generatedAt": 1664013664888
+    "generatedAt": 1664014289141
   }
 }
