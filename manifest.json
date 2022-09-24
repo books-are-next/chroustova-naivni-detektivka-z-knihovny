@@ -1,0 +1,382 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Naivní detektivka z knihovny",
+  "author": "Jana Chroustová",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "chroustova-naivni-detektivka-z-knihovny-359f87a",
+  "revision": "359f87a",
+  "readingOrder": [
+    "promo.html",
+    "naivni_detektivka_z_knihovny_005.html",
+    "naivni_detektivka_z_knihovny_006.html",
+    "naivni_detektivka_z_knihovny_007.html",
+    "naivni_detektivka_z_knihovny_008.html",
+    "naivni_detektivka_z_knihovny_009.html",
+    "naivni_detektivka_z_knihovny_010.html",
+    "naivni_detektivka_z_knihovny_011.html",
+    "naivni_detektivka_z_knihovny_012.html",
+    "naivni_detektivka_z_knihovny_013.html",
+    "naivni_detektivka_z_knihovny_014.html",
+    "naivni_detektivka_z_knihovny_015.html",
+    "naivni_detektivka_z_knihovny_016.html",
+    "naivni_detektivka_z_knihovny_017.html",
+    "naivni_detektivka_z_knihovny_018.html",
+    "naivni_detektivka_z_knihovny_019.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Sat Sep 24 2022 10:02:55 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664013775464
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "naivni_detektivka_z_knihovny_005.html",
+      "toc": []
+    },
+    {
+      "title": "Naivní detektivka z knihovny",
+      "file": "naivni_detektivka_z_knihovny_005.html",
+      "words": 20,
+      "chars": 133,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "naivni_detektivka_z_knihovny_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Naivní detektivka z knihovny",
+      "file": "naivni_detektivka_z_knihovny_006.html",
+      "words": 107,
+      "chars": 680,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 2,
+      "prev": "naivni_detektivka_z_knihovny_005.html",
+      "next": "naivni_detektivka_z_knihovny_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Den první",
+      "file": "naivni_detektivka_z_knihovny_007.html",
+      "words": 2858,
+      "chars": 16677,
+      "ideas": 123,
+      "role": "chapter",
+      "order": 3,
+      "prev": "naivni_detektivka_z_knihovny_006.html",
+      "next": "naivni_detektivka_z_knihovny_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Den první",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Den druhý",
+      "file": "naivni_detektivka_z_knihovny_008.html",
+      "words": 1408,
+      "chars": 8249,
+      "ideas": 76,
+      "role": "chapter",
+      "order": 4,
+      "prev": "naivni_detektivka_z_knihovny_007.html",
+      "next": "naivni_detektivka_z_knihovny_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Den druhý",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Den třetí",
+      "file": "naivni_detektivka_z_knihovny_009.html",
+      "words": 1063,
+      "chars": 6216,
+      "ideas": 61,
+      "role": "chapter",
+      "order": 5,
+      "prev": "naivni_detektivka_z_knihovny_008.html",
+      "next": "naivni_detektivka_z_knihovny_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Den třetí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Den čtvrtý",
+      "file": "naivni_detektivka_z_knihovny_010.html",
+      "words": 2044,
+      "chars": 11944,
+      "ideas": 140,
+      "role": "chapter",
+      "order": 6,
+      "prev": "naivni_detektivka_z_knihovny_009.html",
+      "next": "naivni_detektivka_z_knihovny_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Den čtvrtý",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Den pátý",
+      "file": "naivni_detektivka_z_knihovny_011.html",
+      "words": 1403,
+      "chars": 7967,
+      "ideas": 71,
+      "role": "chapter",
+      "order": 7,
+      "prev": "naivni_detektivka_z_knihovny_010.html",
+      "next": "naivni_detektivka_z_knihovny_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Den pátý",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Den šestý",
+      "file": "naivni_detektivka_z_knihovny_012.html",
+      "words": 2009,
+      "chars": 11430,
+      "ideas": 117,
+      "role": "chapter",
+      "order": 8,
+      "prev": "naivni_detektivka_z_knihovny_011.html",
+      "next": "naivni_detektivka_z_knihovny_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Den šestý",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Den sedmý",
+      "file": "naivni_detektivka_z_knihovny_013.html",
+      "words": 1022,
+      "chars": 5995,
+      "ideas": 72,
+      "role": "chapter",
+      "order": 9,
+      "prev": "naivni_detektivka_z_knihovny_012.html",
+      "next": "naivni_detektivka_z_knihovny_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Den sedmý",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Den osmý",
+      "file": "naivni_detektivka_z_knihovny_014.html",
+      "words": 2941,
+      "chars": 17437,
+      "ideas": 185,
+      "role": "chapter",
+      "order": 10,
+      "prev": "naivni_detektivka_z_knihovny_013.html",
+      "next": "naivni_detektivka_z_knihovny_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Den osmý",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Den devátý",
+      "file": "naivni_detektivka_z_knihovny_015.html",
+      "words": 1657,
+      "chars": 9834,
+      "ideas": 112,
+      "role": "chapter",
+      "order": 11,
+      "prev": "naivni_detektivka_z_knihovny_014.html",
+      "next": "naivni_detektivka_z_knihovny_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Den devátý",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Den desátý",
+      "file": "naivni_detektivka_z_knihovny_016.html",
+      "words": 2838,
+      "chars": 16693,
+      "ideas": 170,
+      "role": "chapter",
+      "order": 12,
+      "prev": "naivni_detektivka_z_knihovny_015.html",
+      "next": "naivni_detektivka_z_knihovny_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Den desátý",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Den jedenáctý",
+      "file": "naivni_detektivka_z_knihovny_017.html",
+      "words": 2374,
+      "chars": 14030,
+      "ideas": 148,
+      "role": "chapter",
+      "order": 13,
+      "prev": "naivni_detektivka_z_knihovny_016.html",
+      "next": "naivni_detektivka_z_knihovny_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Den jedenáctý",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Den dvanáctý",
+      "file": "naivni_detektivka_z_knihovny_018.html",
+      "words": 6337,
+      "chars": 37246,
+      "ideas": 341,
+      "role": "chapter",
+      "order": 14,
+      "prev": "naivni_detektivka_z_knihovny_017.html",
+      "next": "naivni_detektivka_z_knihovny_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Den dvanáctý",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Naivní detektivka z knihovny",
+      "file": "naivni_detektivka_z_knihovny_019.html",
+      "words": 25,
+      "chars": 224,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 15,
+      "prev": "naivni_detektivka_z_knihovny_018.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 139,
+      "chars": 915,
+      "ideas": 16,
+      "role": "about",
+      "order": null,
+      "prev": "naivni_detektivka_z_knihovny_019.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 28253,
+      "chars": 165724,
+      "ideas": 1643
+    },
+    "chapters": {
+      "words": 28106,
+      "chars": 164755,
+      "ideas": 1623
+    }
+  }
+}
