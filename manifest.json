@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "chroustova-naivni-detektivka-z-knihovny-1eb8809",
-  "revision": "1eb8809",
+  "identifier": "chroustova-naivni-detektivka-z-knihovny-0db1539",
+  "revision": "0db1539",
   "readingOrder": [
     "promo.html",
     "naivni_detektivka_z_knihovny_005.html",
@@ -30,8 +30,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:40:28 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664487628397
+    "date": "Sat Oct 01 2022 15:46:49 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664639209652
   },
   "documents": [
     {
