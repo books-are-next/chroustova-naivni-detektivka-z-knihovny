@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "chroustova-naivni-detektivka-z-knihovny-926b3c3",
-  "revision": "926b3c3",
+  "identifier": "chroustova-naivni-detektivka-z-knihovny-0dd4b73",
+  "revision": "0dd4b73",
   "readingOrder": [
     "promo.html",
     "naivni_detektivka_z_knihovny_005.html",
@@ -30,8 +30,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 15:41:01 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665416461791
+    "date": "Fri Oct 14 2022 16:27:10 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665764830308
   },
   "documents": [
     {
@@ -349,9 +349,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 137,
-      "chars": 916,
-      "ideas": 14,
+      "words": 141,
+      "chars": 953,
+      "ideas": 15,
       "role": "about",
       "order": null,
       "prev": "naivni_detektivka_z_knihovny_019.html",
@@ -369,9 +369,9 @@
   ],
   "totals": {
     "all": {
-      "words": 28251,
-      "chars": 165725,
-      "ideas": 1641
+      "words": 28255,
+      "chars": 165762,
+      "ideas": 1642
     },
     "chapters": {
       "words": 28106,

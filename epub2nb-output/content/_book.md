@@ -13,6 +13,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
   contentType: prose
+  isbn: 978-80-274-2812-0
 readingOrder:
   - promo.html
   - naivni_detektivka_z_knihovny_005.html
